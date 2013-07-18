@@ -1,0 +1,34 @@
+10
+
+dir
+220
+https://subversion.assembla.com/svn/indentmanager/trunk/src
+https://subversion.assembla.com/svn/indentmanager
+
+
+
+2013-02-19T08:43:19.694808Z
+2
+Susheel_gupta
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c4d563fb-de60-4cc4-99e3-141433200412
+
+groovy
+dir
+
+java
+dir
+

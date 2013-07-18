@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/indentmanager/!svn/ver/220/trunk
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/indentmanager/!svn/ver/128/trunk/application.properties
+END
+indentmanager-grailsPlugins.iml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/indentmanager/!svn/ver/110/trunk/indentmanager-grailsPlugins.iml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/indentmanager/!svn/ver/2/trunk/.project
+END
+indentmanager.iml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/indentmanager/!svn/ver/110/trunk/indentmanager.iml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/indentmanager/!svn/ver/2/trunk/.classpath
+END

@@ -1,0 +1,52 @@
+10
+
+dir
+220
+https://subversion.assembla.com/svn/indentmanager/trunk/grails-app
+https://subversion.assembla.com/svn/indentmanager
+
+
+
+2013-05-23T06:54:03.795412Z
+220
+Susheel_gupta
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c4d563fb-de60-4cc4-99e3-141433200412
+
+conf
+dir
+
+controllers
+dir
+
+domain
+dir
+
+i18n
+dir
+
+services
+dir
+
+taglib
+dir
+
+utils
+dir
+
+views
+dir
+

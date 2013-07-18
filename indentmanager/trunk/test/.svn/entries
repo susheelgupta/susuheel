@@ -1,0 +1,34 @@
+10
+
+dir
+220
+https://subversion.assembla.com/svn/indentmanager/trunk/test
+https://subversion.assembla.com/svn/indentmanager
+
+
+
+2013-02-19T09:25:57.368318Z
+3
+ahsan_cse2004
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c4d563fb-de60-4cc4-99e3-141433200412
+
+integration
+dir
+
+unit
+dir
+

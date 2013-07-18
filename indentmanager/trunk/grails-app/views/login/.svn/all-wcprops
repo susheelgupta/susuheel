@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/indentmanager/!svn/ver/2/trunk/grails-app/views/login
+END
+denied.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/indentmanager/!svn/ver/2/trunk/grails-app/views/login/denied.gsp
+END
+auth.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/indentmanager/!svn/ver/2/trunk/grails-app/views/login/auth.gsp
+END

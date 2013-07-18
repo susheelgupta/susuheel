@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/indentmanager/!svn/ver/215/trunk/grails-app/controllers/com/snehinternational/indentmanager
+END
+CommissionStatusController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/indentmanager/!svn/ver/162/trunk/grails-app/controllers/com/snehinternational/indentmanager/CommissionStatusController.groovy
+END
+DPIndentController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/indentmanager/!svn/ver/177/trunk/grails-app/controllers/com/snehinternational/indentmanager/DPIndentController.groovy
+END
+ShippingAdviceDetailController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/indentmanager/!svn/ver/201/trunk/grails-app/controllers/com/snehinternational/indentmanager/ShippingAdviceDetailController.groovy
+END
+CountryController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/indentmanager/!svn/ver/4/trunk/grails-app/controllers/com/snehinternational/indentmanager/CountryController.groovy
+END
+RoleController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/indentmanager/!svn/ver/23/trunk/grails-app/controllers/com/snehinternational/indentmanager/RoleController.groovy
+END
+BuyerController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/indentmanager/!svn/ver/2/trunk/grails-app/controllers/com/snehinternational/indentmanager/BuyerController.groovy
+END
+PaymentTermController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/indentmanager/!svn/ver/4/trunk/grails-app/controllers/com/snehinternational/indentmanager/PaymentTermController.groovy
+END
+PortOfShipmentController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/indentmanager/!svn/ver/95/trunk/grails-app/controllers/com/snehinternational/indentmanager/PortOfShipmentController.groovy
+END
+CommodityController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/indentmanager/!svn/ver/2/trunk/grails-app/controllers/com/snehinternational/indentmanager/CommodityController.groovy
+END
+IndentController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/indentmanager/!svn/ver/223/trunk/grails-app/controllers/com/snehinternational/indentmanager/IndentController.groovy
+END
+SupplierController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/indentmanager/!svn/ver/2/trunk/grails-app/controllers/com/snehinternational/indentmanager/SupplierController.groovy
+END
+UserController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/indentmanager/!svn/ver/23/trunk/grails-app/controllers/com/snehinternational/indentmanager/UserController.groovy
+END
+LogoutController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/indentmanager/!svn/ver/2/trunk/grails-app/controllers/com/snehinternational/indentmanager/LogoutController.groovy
+END
+LoginController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/indentmanager/!svn/ver/2/trunk/grails-app/controllers/com/snehinternational/indentmanager/LoginController.groovy
+END
+PackingController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/indentmanager/!svn/ver/4/trunk/grails-app/controllers/com/snehinternational/indentmanager/PackingController.groovy
+END
+SearchController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/indentmanager/!svn/ver/214/trunk/grails-app/controllers/com/snehinternational/indentmanager/SearchController.groovy
+END
+ShippingAdviceController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/indentmanager/!svn/ver/226/trunk/grails-app/controllers/com/snehinternational/indentmanager/ShippingAdviceController.groovy
+END
+LCIndentController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/indentmanager/!svn/ver/177/trunk/grails-app/controllers/com/snehinternational/indentmanager/LCIndentController.groovy
+END
+UserRoleController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/indentmanager/!svn/ver/23/trunk/grails-app/controllers/com/snehinternational/indentmanager/UserRoleController.groovy
+END

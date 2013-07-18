@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/indentmanager/!svn/ver/217/trunk/grails-app/views/search
+END
+searchIndex.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/indentmanager/!svn/ver/207/trunk/grails-app/views/search/searchIndex.gsp
+END
+searchShippingAdvice.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/indentmanager/!svn/ver/217/trunk/grails-app/views/search/searchShippingAdvice.gsp
+END
+searchIndent.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/indentmanager/!svn/ver/211/trunk/grails-app/views/search/searchIndent.gsp
+END

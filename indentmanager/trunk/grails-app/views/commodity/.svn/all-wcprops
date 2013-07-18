@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/indentmanager/!svn/ver/220/trunk/grails-app/views/commodity
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/indentmanager/!svn/ver/219/trunk/grails-app/views/commodity/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/indentmanager/!svn/ver/2/trunk/grails-app/views/commodity/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/indentmanager/!svn/ver/220/trunk/grails-app/views/commodity/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/indentmanager/!svn/ver/2/trunk/grails-app/views/commodity/list.gsp
+END
+_form.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/indentmanager/!svn/ver/2/trunk/grails-app/views/commodity/_form.gsp
+END

@@ -1,0 +1,43 @@
+10
+
+dir
+220
+https://subversion.assembla.com/svn/indentmanager/trunk/web-app
+https://subversion.assembla.com/svn/indentmanager
+
+
+
+2013-04-29T11:49:56.717676Z
+207
+Susheel_gupta
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c4d563fb-de60-4cc4-99e3-141433200412
+
+META-INF
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+images
+dir
+
+js
+dir
+

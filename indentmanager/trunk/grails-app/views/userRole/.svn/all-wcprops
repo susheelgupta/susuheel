@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/indentmanager/!svn/ver/23/trunk/grails-app/views/userRole
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/indentmanager/!svn/ver/23/trunk/grails-app/views/userRole/create.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/indentmanager/!svn/ver/23/trunk/grails-app/views/userRole/list.gsp
+END
+_form.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/indentmanager/!svn/ver/23/trunk/grails-app/views/userRole/_form.gsp
+END

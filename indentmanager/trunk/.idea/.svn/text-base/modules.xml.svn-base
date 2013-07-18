@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/indentmanager.iml" filepath="$PROJECT_DIR$/indentmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/indentmanager-grailsPlugins.iml" filepath="$PROJECT_DIR$/indentmanager-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
+

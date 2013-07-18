@@ -1,0 +1,148 @@
+10
+
+dir
+0
+https://subversion.assembla.com/svn/indentmanager/trunk/out/production/indentmanager
+https://subversion.assembla.com/svn/indentmanager
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c4d563fb-de60-4cc4-99e3-141433200412
+
+
+
+
+
+
+
+empty
+
+messages_cs_CZ.properties
+file
+
+
+
+add
+
+messages_zh_CN.properties
+file
+
+
+
+add
+
+messages_pt_BR.properties
+file
+
+
+
+add
+
+messages_es.properties
+file
+
+
+
+add
+
+messages_fr.properties
+file
+
+
+
+add
+
+messages_nl.properties
+file
+
+
+
+add
+
+messages_th.properties
+file
+
+
+
+add
+
+messages_it.properties
+file
+
+
+
+add
+
+messages.properties
+file
+
+
+
+add
+
+messages_da.properties
+file
+
+
+
+add
+
+messages_pt_PT.properties
+file
+
+
+
+add
+
+messages_ru.properties
+file
+
+
+
+add
+
+messages_de.properties
+file
+
+
+
+add
+
+messages_sv.properties
+file
+
+
+
+add
+
+messages_ja.properties
+file
+
+
+
+add
+
+com
+dir
+
+
+
+add
+

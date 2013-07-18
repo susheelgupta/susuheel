@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/indentmanager/!svn/ver/207/trunk/grails-app/views/shippingAdviceDetail
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/indentmanager/!svn/ver/116/trunk/grails-app/views/shippingAdviceDetail/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/indentmanager/!svn/ver/116/trunk/grails-app/views/shippingAdviceDetail/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/indentmanager/!svn/ver/207/trunk/grails-app/views/shippingAdviceDetail/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/indentmanager/!svn/ver/37/trunk/grails-app/views/shippingAdviceDetail/list.gsp
+END
+_form.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/indentmanager/!svn/ver/207/trunk/grails-app/views/shippingAdviceDetail/_form.gsp
+END

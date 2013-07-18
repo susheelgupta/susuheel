@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/indentmanager/!svn/ver/209/trunk/grails-app/views/indent
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/indentmanager/!svn/ver/52/trunk/grails-app/views/indent/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/indentmanager/!svn/ver/52/trunk/grails-app/views/indent/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/indentmanager/!svn/ver/97/trunk/grails-app/views/indent/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/indentmanager/!svn/ver/226/trunk/grails-app/views/indent/list.gsp
+END
+supplierWiseList.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/indentmanager/!svn/ver/175/trunk/grails-app/views/indent/supplierWiseList.gsp
+END
+commissionStatusWiseList.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/indentmanager/!svn/ver/209/trunk/grails-app/views/indent/commissionStatusWiseList.gsp
+END
+_form.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/indentmanager/!svn/ver/200/trunk/grails-app/views/indent/_form.gsp
+END
+buyerWiseList.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/indentmanager/!svn/ver/175/trunk/grails-app/views/indent/buyerWiseList.gsp
+END
